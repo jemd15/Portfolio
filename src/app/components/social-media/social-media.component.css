@@ -1,4 +1,8 @@
-button[type=submit]:hover{
+a:hover, a i:hover{
     color:#00e5ff !important;
     transition-duration: 500ms;
+}
+
+a{
+    padding: 0 10px;
 }

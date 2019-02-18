@@ -11,6 +11,7 @@ import { RepositoriesComponent } from './pages/repositories/repositories.compone
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SkillsComponent } from './pages/skills/skills.component';
+import { SocialMediaComponent } from './components/social-media/social-media.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { SkillsComponent } from './pages/skills/skills.component';
     RepositoriesComponent,
     NavbarComponent,
     FooterComponent,
-    SkillsComponent
+    SkillsComponent,
+    SocialMediaComponent
   ],
   imports: [
     BrowserModule,
