@@ -11,5 +11,6 @@
 }
 
 a:hover, a i:hover{
-    color:#f50057;
+    color:#e91e63 !important;
+    transition-duration: 500ms;
 }

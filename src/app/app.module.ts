@@ -10,7 +10,7 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { RepositoriesComponent } from './pages/repositories/repositories.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { FooterComponent } from './components/footer/footer.component';
-import { HabilitiesComponent } from './pages/habilities/habilities.component';
+import { SkillsComponent } from './pages/skills/skills.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +20,7 @@ import { HabilitiesComponent } from './pages/habilities/habilities.component';
     RepositoriesComponent,
     NavbarComponent,
     FooterComponent,
-    HabilitiesComponent
+    SkillsComponent
   ],
   imports: [
     BrowserModule,
