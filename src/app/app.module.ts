@@ -24,7 +24,7 @@ import { SkillsComponent } from './pages/skills/skills.component';
   ],
   imports: [
     BrowserModule,
-    //MaterializeModule,
+    MaterializeModule,
     RouterModule.forRoot(AppRoutes, {useHash: true})
   ],
   providers: [],
